@@ -9,7 +9,7 @@
   </a> -->
 </p>
 
-**Talking about Personal Stuffs:**
+### Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently working on something cool :wink: **;**
 - 🌱 I’m currently learning blockchain development **;**
