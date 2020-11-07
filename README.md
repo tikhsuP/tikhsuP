@@ -1,4 +1,4 @@
-### Hi there, I'm Pushkit Kapoor
+# Hey there
 
 ### Connect with me:
 
@@ -8,6 +8,15 @@
   <!-- <a href="https://dribbble.com/tikhsup" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="tikhsup" height="30" width="40" />
   </a> -->
 </p>
+
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 🌱 I’m currently learning GraphQL and C++; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
+- 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
+
 
 ### Languages and Tools:
 
