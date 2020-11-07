@@ -1,6 +1,6 @@
 # Hey there
 
-### Connect with me:
+### 📫 How to reach me:
 
 <p align="left">
   <a href="https://linkedin.com/in/pushkit-kapoor-005b62170" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pushkit-kapoor-005b62170" height="30" width="40" />
@@ -11,11 +11,10 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and C++; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
+- 👨🏽‍💻 I’m currently working on something cool :wink: **;**
+- 🌱 I’m currently learning blockchain development **;**
+- 💬 Ask me about anything, I am happy to help **;**
+<!-- - 📝[Resume](https://drive.google.com/) **;**-->
 
 
 ### Languages and Tools:
