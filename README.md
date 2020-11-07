@@ -1,7 +1,21 @@
-### Hi there
+### Hi there, I'm Pushkit Kapoor
 
-<h3 align="left">Languages and Tools:</h3>
+### Connect with me:
+
 <p align="left">
+  <a href="https://linkedin.com/in/pushkit-kapoor-005b62170" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pushkit-kapoor-005b62170" height="30" width="40" /></a>
+  <a href="https://dribbble.com/tikhsup" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="tikhsup" height="30" width="40" /></a>
+</p>
+
+### Languages and Tools:
+
+<p align="left">
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
   </a>
