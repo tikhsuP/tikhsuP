@@ -57,10 +57,10 @@
   </a>&nbsp
   <a href="https://unity.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
+  </a>&nbsp
   <a href="#">
     <img src="images/solidity.png" alt="solidity" width="30" height="40"/>
-  </a>
+  </a>&nbsp
 </p>
 
 (Will update the above and project READMEs soon)
