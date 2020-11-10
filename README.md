@@ -59,7 +59,7 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </a>
   <a href="#">
-    <img src="images/solidity.png" alt="solidity" width="40" height="40"/>
+    <img src="images/solidity.png" alt="solidity" width="50" height="50"/>
   </a>
 </p>
 
