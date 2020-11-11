@@ -1,6 +1,6 @@
 # Hey there
 
-### 📫 How to reach me:
+### 📫 Whwere to reach me:
 
 <p align="left">
   <a href="https://linkedin.com/in/pushkit-kapoor-005b62170" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pushkit-kapoor-005b62170" height="30" width="40" />
