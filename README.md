@@ -12,7 +12,7 @@
 ### Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently working on something cool :wink: **;**
-- 🌱 I’m currently learning blockchain development **;**
+- 🌱 I’m currently learning Data Structures and Algorithms **;**
 - 💬 Ask me about anything, I am happy to help **;**
 <!-- - 📝[Resume](https://drive.google.com/) **;**-->
 
