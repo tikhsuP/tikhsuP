@@ -25,6 +25,9 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>&nbsp
+  <a href="https://www.w3schools.com/cs/" target="_blank">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>&nbsp
   <a href="https://www.w3schools.com/cpp/" target="_blank">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>&nbsp
