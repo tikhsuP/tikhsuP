@@ -67,5 +67,3 @@
     <img src="images/solidity.png" alt="solidity" width="30" height="40"/>
   </a>&nbsp
 </p>
-
-(Will update the above and project READMEs soon)
