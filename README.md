@@ -18,7 +18,6 @@
 - 💬 Ask me about anything, I am happy to help **;**
 <!-- - 📝[Resume](https://drive.google.com/) **;**-->
 
-
 ### Languages and Tools:
 
 <p align="left">
