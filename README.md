@@ -20,7 +20,7 @@
 ### Languages and Tools:
 <p align="left">
   
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
+  <!-- <a href="https://www.w3schools.com/cpp/" target="_blank">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>&nbsp
   <a href="https://www.w3schools.com/cs/" target="_blank">
@@ -28,7 +28,7 @@
   </a>&nbsp
   <a href="https://www.w3schools.com/cpp/" target="_blank">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>&nbsp
+  </a>&nbsp -->
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 &nbsp
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
