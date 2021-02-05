@@ -1,4 +1,5 @@
 # Hey there
+
 ### 📫 Where to reach me:
 
 <p align="left">
@@ -15,9 +16,10 @@
 - 👨🏽‍💻 I’m currently working on something cool :wink: **;**
 - 🌱 I’m currently learning React.js and GraphQL **;**
 - 💬 Ask me about anything, I am happy to help **;**
-<!-- - 📝[Resume](https://drive.google.com/) **;**-->
+- 📝[Resume](https://drive.google.com/file/d/1T2ySkPzKeZ7jBGe5U2_a0AcArJoROYOb/view?usp=sharing) **;**
 
 ### Languages and Tools:
+
 <p align="left">
   
   <!-- <a href="https://www.w3schools.com/cpp/" target="_blank">
