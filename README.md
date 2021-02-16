@@ -14,7 +14,7 @@
 ### Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently working on something cool :wink: **;**
-- 🌱 I’m currently learning React.js and GraphQL **;**
+- 🌱 I’m currently learning JSS and GraphQL **;**
 - 💬 Ask me about anything, I am happy to help **;**
 - 📝 [Resume](https://drive.google.com/file/d/1T2ySkPzKeZ7jBGe5U2_a0AcArJoROYOb/view?usp=sharing) **;**
 
