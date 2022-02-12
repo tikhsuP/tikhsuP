@@ -1,22 +1,22 @@
 # Hey there
 
-### 📫 Where to reach me:
+
 
 <p align="left">
-  <a href="https://linkedin.com/in/pushkit-kapoor-005b62170" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pushkit-kapoor-005b62170" height="30" width="40" />
-  </a>
-  <a href="mailto:pushkit20@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="E-mail" height="30" width="40" />
-  </a>
-  <!-- <a href="https://dribbble.com/tikhsup" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="tikhsup" height="30" width="40" />
-  </a>-->
-</p>
+
+
+
+
+
+
+
 
 ### Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently working on something cool :wink: **;**
 - 🌱 I’m currently learning JSS and GraphQL **;**
 - 💬 Ask me about anything, I am happy to help **;**
-- 📝 [Resume](https://drive.google.com/file/d/1T2ySkPzKeZ7jBGe5U2_a0AcArJoROYOb/view?usp=sharing) **;**
+
 
 ### Languages and Tools:
 
